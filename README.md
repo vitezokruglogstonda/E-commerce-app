@@ -1,2 +1,2 @@
 # E-commerce-app
- Web app built in ASP.NET Core and React
+ Web app built with ASP.NET Core and React
