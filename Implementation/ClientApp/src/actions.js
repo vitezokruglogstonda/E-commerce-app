@@ -1,0 +1,8 @@
+export const SIDEBAR_OPEN = 'SIDEBAR_OPEN'
+export const SIDEBAR_CLOSE = 'SIDEBAR_CLOSE'
+export const SET_GRIDVIEW = 'SET_GRIDVIEW'
+export const SET_LISTVIEW = 'SET_LISTVIEW'
+export const UPDATE_SORT = 'UPDATE_SORT'
+export const SORT_PRODUCTS = 'SORT_PRODUCTS'
+
+
